@@ -1,0 +1,13 @@
+Dog
+Hamster
+Owl
+Pidgeon
+Cat
+Otter
+Bear
+Axolotl
+Zebra
+Lion
+Giraffe
+Hippopotamus
+Lemur
